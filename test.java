@@ -1,1 +1,2 @@
-Java does not support multiple inheritance>
+Java does not support multiple inheritance
+Hello .....
